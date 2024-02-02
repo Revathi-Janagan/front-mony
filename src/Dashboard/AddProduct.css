@@ -1,0 +1,24 @@
+.Add-product{
+     margin-top: 80px;
+     margin-left: 100px;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    height:80vh;
+    width:70%;
+    border: 1px solid black;
+    border-radius: 5px;
+    flex-wrap: nowrap;
+}
+.h2-tag{
+    text-align: center;
+}
+.form{
+    padding: 10px 20px;
+}
+.video-card{
+    height: 140px;
+    width:280px;
+    border: 2px solid black;
+}

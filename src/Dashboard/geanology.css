@@ -1,0 +1,23 @@
+.h2-tag{
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    margin-left: -250px;
+}
+.geo-input{
+    width: 150px;
+    height: 30px;   
+    border: none;
+    margin-left: 20px
+}
+.adduser-btn{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+.dialog-box{
+height:50vh;
+width:100%
+}
